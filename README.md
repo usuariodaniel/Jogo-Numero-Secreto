@@ -1,6 +1,6 @@
 # Jogo do Número Secreto
 
-Este repositório contém um jogo de adivinhação de números simples implementado em JavaScript. O jogo gera um número aleatório entre 1 e 100, e o jogador deve adivinhar qual é o número.
+Este repositório contém um jogo de adivinhação de números simples implementado em JavaScript. O jogo gera um número aleatório entre 1 e 50, e o jogador deve adivinhar qual é o número.
 
 ## Como executar o projeto
 Para executar este projeto, você precisará de um ambiente Node.js configurado em sua máquina. Siga estas etapas:
